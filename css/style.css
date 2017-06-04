@@ -84,6 +84,29 @@
 	color: white;
 }
 
+.tools{
+	cursor: pointer;
+	position: absolute;
+	color: white;
+	visibility: hidden;
+}
+
+.tool_medium{
+	margin-left: 327px;
+}
+
+.tool_short{
+	margin-left: 532px;
+}
+
+.tool_short2{
+	margin-left: 167px;
+}
+
+.tool_medium2{
+	margin-left: 1077px;
+}
+
 .going{
 	background-color: #353e4d;
 	height: 100%;
